@@ -2,10 +2,10 @@
 pictures bot telegram
 
 > Video
-
+https://youtu.be/BlQkh6EyR0c
 
 > Example config.py
-'''
+```
 URL_VIDEO = "https://test/sz/video/iz-igr/new/"
 URL_ANIME = "https://test/sz/foto-i-kartinki/abstraktnye/new/"
 URL_HOMEPHOTO = "https://test/sz/foto-i-kartinki/arhitektura-goroda/new/"
@@ -22,6 +22,6 @@ admin_token="48234r29"
 STATUS_1 = "block"
 STATUS_2 = "vip"
 STATUS_3 = "free"
-'''
+```
 
 > Demo
